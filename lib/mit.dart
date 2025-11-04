@@ -4,6 +4,5 @@
 library;
 
 export 'src/mit_base.dart';
-hello
-
+hello world
 // TODO: Export any libraries intended for clients of this package.
